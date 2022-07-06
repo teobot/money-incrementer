@@ -6,7 +6,7 @@
 
 ### 🏠 [Homepage](https://github.com/teobot/money-incrementer-sim)
 
-### ✨ [Demo](https://teobot-simoney.netlify.app/]
+### ✨ [Demo](https://teobot-simoney.netlify.app)
 
 ## Install
 
